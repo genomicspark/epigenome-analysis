@@ -9,7 +9,8 @@ Methods
 1) FastQC Report<br>
    https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 2) MultiQC Report<br>
-   https://multiqc.info/
+   https://multiqc.info/<br>
+   Installation: pip install multiqc
 
 # Step2
 Trimming raw sequencing datasets
