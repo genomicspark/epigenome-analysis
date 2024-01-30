@@ -7,11 +7,15 @@ Epigenome analysis pipeline review
 Raw sequencing quality check
 Methods
 1) FastQC Report
+   https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 2) MultiQC Report
+   https://multiqc.info/
 
 # Step2
 Trimming raw sequencing datasets
 1) TrimGalore
+   https://github.com/FelixKrueger/TrimGalore/blob/master/Docs/Trim_Galore_User_Guide.md
+   
 2) Cutadapt
 
 # Step3
