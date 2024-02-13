@@ -16,8 +16,9 @@ Methods
 Trimming raw sequencing datasets
 1) TrimGalore<br>
    https://github.com/FelixKrueger/TrimGalore/blob/master/Docs/Trim_Galore_User_Guide.md
+   https://github.com/FelixKrueger/TrimGalore/releases
    
-2) Cutadapt<br>
+3) Cutadapt<br>
    pip install cutadapt
 
 # Step3
