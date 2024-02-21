@@ -17,6 +17,11 @@ Trimming raw sequencing datasets
 1) TrimGalore<br>
    https://github.com/FelixKrueger/TrimGalore/blob/master/Docs/Trim_Galore_User_Guide.md
    https://github.com/FelixKrueger/TrimGalore/releases
+
+    pip install cutadapt
+   ./TrimGalore-0.6.10/trim_galore --paired adrenal_1.fastq adrenal_2.fastq
+   outputs adrenal_1_val_1.fq , adrenal_2_val_1.fq
+
    
 3) Cutadapt<br>
    pip install cutadapt
